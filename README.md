@@ -17,3 +17,44 @@ Workflow:
 - Your PR will then be reviewed by your peers and merged appropriately
 
 See example [here](https://github.com/ProfNandaa/upskilling-c-sharp/pull/1)
+
+
+## Appendix
+
+### Workflow Explained
+
+Quick Git walkthrough:
+
+- Fork the repo
+- Clone your forked repo, e.g.
+  
+  ```
+  git clone https://github.com/ProfNandaa/upskilling-c-sharp.git
+  ```
+- Create a branch for your solution, e.g.
+  
+  ```
+  git checkout -b 1-hr-sum-array
+  ```
+- After making changes, stage the changes:
+  
+  ```
+  git add --all
+  ```
+- Commit the staged changes, e.g.
+  
+  ```
+  git commit -m "solution: hackerrank sum-array"
+  ```
+- Push your changes, e.g.
+
+  ```
+  git push origin 1-hr-sum-array
+  ```
+
+Making A pull request
+<img width="1072" alt="screen shot 2017-02-10 at 10 25 15 am" src="https://cloud.githubusercontent.com/assets/261265/22818037/fdc35612-ef7b-11e6-9c3b-4d19287af4ae.png">
+
+Reviewing Code
+<img width="1063" alt="screen shot 2017-02-10 at 10 26 10 am" src="https://cloud.githubusercontent.com/assets/261265/22817993/b241c660-ef7b-11e6-8ca4-4fe405c95b4d.png">
+
