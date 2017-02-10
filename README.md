@@ -16,4 +16,4 @@ Workflow:
 - Raise a PR against your `master` branch (not this project's master branch).
 - Your PR will then be reviewed by your peers and merged appropriately
 
-See example [here]()
+See example [here](https://github.com/ProfNandaa/upskilling-c-sharp/pull/1)
